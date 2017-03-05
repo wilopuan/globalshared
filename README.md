@@ -1,2 +1,0 @@
-# globalshared
-informacion para compartir
